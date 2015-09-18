@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.password{padding-left: 15px;}
+.btn{margin-left:50px;}
+.sub-btn{padding: 5px 20px;
+    font-size: 12px;
+    line-height: 1.3333333;
+    border-radius: 6px;}
+.btn a{
+    padding: 7px 20px;
+    font-size: 12px;
+    line-height: 1.3333333;
+    background: lightsteelblue;
+    display: inline-block; color: black;
+    font-size: 12px;border-radius: 6px;
+    text-decoration:none;
+}
